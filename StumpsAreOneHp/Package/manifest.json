@@ -1,0 +1,9 @@
+{
+    "name": "StumpsAreOneHp",
+    "version_number": "0.0.2",
+    "website_url": "https://github.com/DaiMinhTri/StumpsAreOneHp",
+    "description": "Tree stumps have 1 HP - clean up your stumps with a single hit. Valheim 1.0.12 update. Fork of coemt/StumpsAreOneHp.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
+    ]
+}
