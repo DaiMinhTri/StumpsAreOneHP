@@ -1,4 +1,5 @@
 #Disclaimer
+
 Most of mods I work with are some old and outdated ones that their authors haven't updated so far to match 1.0. I am not a professional modder myself, but I am good with coding and gaming. If you experience any problems with the mods I published, you can find me in <a href=https://discord.com/channels/1522110224947871817/1522118606937133136>Hexium</a> discord server by typing DMT. 
 
 # Stumps Are 1 HP
@@ -22,8 +23,7 @@ One hit from anything chops the stump. Works on newly spawned and already-placed
 
 ## Compatibility
 
-- **Valheim 1.0.12** — code verified against the 1.0.12 assemblies (all accessed members still public; version-check handshake and config sync use the same ServerSync implementation as other updated mods).
-- **Haven't tested in-game yet** on 1.0.12 — build is code-verified, awaiting gameplay confirmation.
+- **Valheim 1.0.12**
 - Config: `BepInEx/config/coemt.StumpsAreOneHp.cfg` — includes a server-admin lock option (synced).
 
 ## Credits
