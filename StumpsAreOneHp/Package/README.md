@@ -1,3 +1,6 @@
+#Disclaimer
+Most of mods I work with are some old and outdated ones that their authors haven't updated so far to match 1.0. I am not a professional modder myself, but I am good with coding and gaming. If you experience any problems with the mods I published, you can find me in <a href=https://discord.com/channels/1522110224947871817/1522118606937133136>Hexium</a> discord server by typing DMT. 
+
 # Stumps Are 1 HP
 
 Tree stumps have 1 HP — clean up your stumps with a single hit.
@@ -32,3 +35,7 @@ One hit from anything chops the stump. Works on newly spawned and already-placed
 
 - **0.0.2** — Rebuilt for Valheim 1.0.12: ServerSync implementation updated, warning logs for missing prefabs, no functional change to stump HP.
 - **0.0.1** — Original release by coemt.
+
+## Donations/Tips
+Support me: | [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-daiminhtri-yellow)](https://buymeacoffee.com/daiminhtri) |
+|-----------|---------------|
