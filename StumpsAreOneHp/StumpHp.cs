@@ -12,7 +12,10 @@ public static class StumpHp
         "FirTree_Stub",
         "OakStub",
         "Pinetree_01_Stub",
-        "SwampTree1_Stub"
+        "SwampTree1_Stub",
+        "AshlandsTreeStump1",
+        "AshlandsTreeStump2",
+        "AshlandsTreeStump3"
     };
 
     [HarmonyPatch(typeof(ZNetScene), "Awake")]
