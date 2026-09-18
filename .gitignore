@@ -1,3 +1,6 @@
 bin/
 obj/
 upstream/
+publish/
+*.zip
+environment.props
