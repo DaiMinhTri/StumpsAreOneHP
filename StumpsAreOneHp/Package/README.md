@@ -10,7 +10,7 @@ Fork of [coemt/StumpsAreOneHp](https://thunderstore.io/c/valheim/p/coemt/StumpsA
 
 ## What it does
 
-After the world loads, six tree-stump prefabs get their health set to 1:
+After the world loads, nine tree-stump prefabs get their health set to 1:
 
 - Beech_Stub
 - BirchStub
@@ -18,6 +18,9 @@ After the world loads, six tree-stump prefabs get their health set to 1:
 - OakStub
 - Pinetree_01_Stub
 - SwampTree1_Stub
+- AshlandsTreeStump1
+- AshlandsTreeStump2
+- AshlandsTreeStump3
 
 One hit from anything chops the stump. Works on newly spawned and already-placed stumps alike, in single-player and multiplayer (server + clients should run the mod).
 
@@ -33,7 +36,7 @@ One hit from anything chops the stump. Works on newly spawned and already-placed
 
 ## Changelog
 
-- **0.0.2** — Rebuilt for Valheim 1.0.12: ServerSync implementation updated, warning logs for missing prefabs, no functional change to stump HP.
+- **0.0.2** — Added Ashlands tree stumps (AshlandsTreeStump1/2/3), rebuilt for Valheim 1.0.12.
 - **0.0.1** — Original release by coemt.
 
 ## Donations/Tips
