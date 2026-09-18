@@ -36,7 +36,8 @@ One hit from anything chops the stump. Works on newly spawned and already-placed
 
 ## Changelog
 
-- **0.0.2** — Added Ashlands tree stumps (AshlandsTreeStump1/2/3), rebuilt for Valheim 1.0.12.
+- **0.0.3** — Added Ashlands tree stumps (AshlandsTreeStump1/2/3), rebuilt for Valheim 1.0.12.
+- **0.0.2** — Rebuilt for Valheim 1.0.12, warning logs for missing prefabs.
 - **0.0.1** — Original release by coemt.
 
 ## Donations/Tips
